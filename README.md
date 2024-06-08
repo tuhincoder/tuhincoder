@@ -3,6 +3,7 @@
 ## I'm a Web Developer
 
 #About Me
+
 I am a dedicated and  web developer with a strong background in designing, building, and maintaining dynamic websites and web applications. My expertise lies in creating user-friendly, responsive, and visually appealing web interfaces, as well as implementing robust server-side logic.
 
 <b>Front-End Development :</b> Creating and styling the visual aspects of a website, ensuring it is interactive and responsive.
