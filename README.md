@@ -19,11 +19,10 @@ Skills:  JS/ REACT / HTML / SASS/NODE JS/EXPRESS JS/MongoDB Atlast/Tailwind Css/
 - 💬 Ask me about ! Web Development. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tuhincoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TuhinMahmud/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tuhincoder)  
 
 
-
-
+![GitHub metrics](https://metrics.lecoq.io/tuhincoder) 
 
  
 
