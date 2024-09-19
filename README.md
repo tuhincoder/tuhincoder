@@ -23,7 +23,6 @@ Skills:  JS/ REACT / HTML / SASS/NODE JS/EXPRESS JS/MongoDB Atlast/Tailwind Css/
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/tuhincoder) 
 
  
 
