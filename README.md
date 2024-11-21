@@ -6,7 +6,7 @@
 
 Hello, i'm Mahmudul Hasan Tuhin. A passionate web developer. I have strong knowledge of frontend development and have basic knowledge of the backend like RESTful API. I really enjoy learning new technologies. I have solved several web application problems with Reactjs, Expressjs, and MongoDB Atlast.I am well-versed in front-end technologies like HTML5, CSS3, and JavaScript, and have hands-on experience with popular libraries and frameworks such as Bootstrap and Tailwind CSS.
 
-Skills: REACT / JS / HTML / CSS /NODE.JS / EXPRESS.JS / Mongodb Atlast /TailwindCSS / Firebase /Figma /TanStack..
+Skills: REACT /Next.js / JvaScript / TypeScript / HTML / CSS /NODE.JS / EXPRESS.JS / Mongodb Atlast / Mongose / TailwindCSS / Firebase /Figma /TanStack..
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web development 
