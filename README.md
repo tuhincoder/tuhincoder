@@ -8,7 +8,7 @@ Hello, i'm Mahmudul Hasan Tuhin. A passionate web developer. I have strong knowl
 
 Skills: REACT /Next.js / JvaScript / TypeScript / HTML / CSS /NODE.JS / EXPRESS.JS / Mongodb Atlast / Mongose / TailwindCSS / Firebase /Figma /TanStack..
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript and TypeScript
 - 💬 Ask me about Web development 
 
 
